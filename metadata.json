@@ -1,0 +1,6 @@
+{
+  "name": "Catalog Express by This Man Makes",
+  "description": "Create printable wholesale & trade product catalogues for UK and international retail, exhibitions, and interior designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
