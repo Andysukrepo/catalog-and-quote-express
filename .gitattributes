@@ -1,0 +1,6 @@
+# Override GitHub Linguist language detection so GitHub recognizes this project as TypeScript
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.json linguist-detectable=false
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
